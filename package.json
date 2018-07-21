@@ -1,0 +1,19 @@
+{
+  "name": "stefanpetre-bootstrap-tabdrop",
+  "version": "1.0.0",
+  "description": "A dropdown tool for @twitter bootstrap from Stefan Petre with improvements from @jschab and @josephdburdick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erssebaggala/bootstrap-tabdrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erssebaggala/bootstrap-tabdrop/issues"
+  },
+  "homepage": "https://github.com/erssebaggala/bootstrap-tabdrop#readme"
+}
